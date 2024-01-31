@@ -1,16 +1,16 @@
-# Generador de Narrativas Mexicanas
+# Generador de Narrativas de Magia Mexicana Antigua
 
 ## Descripción
 
-Este proyecto es un generador de narrativas que se centra en crear historias auténticas y culturalmente relevantes basadas en la rica tradición y folklore mexicano. Utilizando Python, este generador de narrativas busca proporcionar una experiencia única al usuario, sumergiéndolo en cuentos inspirados en la diversidad de la cultura mexicana.
+Este proyecto es un generador de narrativas que se enfoca en crear historias mágicas inspiradas en la rica tradición de la cultura mexicana antigua. Utilizando Python, este generador de cuentos busca proporcionar una experiencia única al usuario, sumergiéndolo en relatos encantados basados en la mitología y la magia de las civilizaciones prehispánicas de México.
 
 ## Características Principales
 
-- **Diversidad Cultural:** El generador incorpora elementos culturales mexicanos, como mitos, leyendas y tradiciones, para crear narrativas auténticas y respetuosas.
+- **Magia y Mitología:** El generador incorpora elementos mágicos y mitológicos de la cultura mexicana antigua para crear narrativas que reflejen la riqueza espiritual y mística de esta época.
 
-- **Personalización:** Permite a los usuarios personalizar ciertos aspectos de las historias, como personajes, lugares y eventos, para adaptarse a sus preferencias y contextos específicos.
+- **Personalización:** Permite a los usuarios personalizar ciertos aspectos de las historias, como personajes, lugares y eventos mágicos, para adaptarse a sus preferencias y contextos específicos.
 
-- **Interfaz de Usuario Amigable:** La interfaz del generador es intuitiva y fácil de usar, permitiendo a los usuarios generar narrativas con facilidad.
+- **Interfaz de Usuario Amigable:** La interfaz del generador es intuitiva y fácil de usar, permitiendo a los usuarios sumergirse en la magia de las narrativas generadas.
 
 ## Requisitos del Sistema
 
@@ -26,8 +26,8 @@ Este proyecto es un generador de narrativas que se centra en crear historias aut
 ## Uso
 
 1. Ejecuta el programa.
-2. Personaliza los parámetros de la narrativa según tus preferencias.
-3. Genera la narrativa y disfruta de una historia única inspirada en la cultura mexicana.
+2. Personaliza los parámetros de la narrativa según tus preferencias mágicas.
+3. Genera la narrativa y sumérgete en un cuento mágico inspirado en la cultura mexicana antigua.
 
 ## Contribuciones
 
