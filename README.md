@@ -14,7 +14,7 @@ Este proyecto es un generador de narrativas que se enfoca en crear historias má
 
 ## Requisitos del Sistema
 
-- **Python:** Se requiere Python (versión X.X) para ejecutar el generador de narrativas.
+- **Python:** Se requiere Python (versión 3.6.15) para ejecutar el generador de narrativas.
 
 ## Instalación
 
@@ -40,4 +40,4 @@ Este proyecto es un generador de narrativas que se enfoca en crear historias má
 
 ## Licencia
 
-Este proyecto está bajo la licencia [nombre de la licencia]. Consulta el archivo `LICENSE.md` para obtener más detalles.
+Este proyecto está bajo la licencia Felipe Daniel Juarez Alvarez. Consulta el archivo `LICENSE.md` para obtener más detalles.
